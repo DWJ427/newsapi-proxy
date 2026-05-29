@@ -1,5 +1,5 @@
 // api/register.js
-const fetch = require('node-fetch');
+import fetch from 'node-fetch';
 
 const EMAIL = '1427887496@qq.com';
 const PASSWORD = '10j23w4d';
