@@ -1,6 +1,9 @@
 {
   "name": "newsapi-register",
+  "version": "1.0.0",
+  "type": "module",
   "dependencies": {
-    "node-fetch": "^2.6.7"
+    "chrome-aws-lambda": "^10.0.0",
+    "puppeteer-core": "^10.0.0"
   }
 }
